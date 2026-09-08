@@ -97,5 +97,10 @@ B.Tech Student | Artificial Intelligence & Machine Learning
 
 
 
+<img width="1890" height="912" alt="image" src="https://github.com/user-attachments/assets/ba0c0523-5766-48be-aa35-a5ccd73ed143" />
+
+
+
+
 <img width="2430" height="1830" alt="streamlit_ui_mockup" src="https://github.com/user-attachments/assets/31546d42-5448-4e67-822f-6588ba2cabd3" />
 
